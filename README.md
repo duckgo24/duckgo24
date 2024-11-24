@@ -26,6 +26,6 @@
   </div>
 
   <div align="center" style="margin-top: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duckgo24&show_icons=true&locale=en&layout=compact&theme=radical" alt="duckgo24" style="border-radius: 15px;" width="80%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duckgo24&show_icons=true&locale=en&layout=compact&theme=radical" alt="duckgo24" style="border-radius: 15px;" width="80%" height="200px" />
   </div>
 </div>
