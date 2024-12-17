@@ -1,6 +1,6 @@
-<div align="center" style="display: flex; align-items: center;">
+<div align="center">
+  <pre><code>"sudo!"</code></pre>
   <img src="./cat.webp" width="200px" height="150px" style="margin-right: 10px;" />
-  <pre><code>"sudo"</code></pre>
 </div>
 
 <h3>Things I can code with</h3>
